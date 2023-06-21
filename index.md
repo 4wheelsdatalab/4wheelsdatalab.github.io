@@ -1,10 +1,9 @@
 ---
 title: 4wheels Data Lab 
-feature_text: |
-  ## Alembic
- Uncovering hidden patterns and actionable insights from raw data
+feature_text: Uncovering hidden patterns and actionable insights from raw data
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "Analyzing data is an ongoing voyage of discovery. With each analysis, I try to uncover a little more of the truth."
+aside : true
 ---
 
 Analyzing data is an ongoing voyage of discovery. With each analysis, I try to uncover a little more of the truth.
