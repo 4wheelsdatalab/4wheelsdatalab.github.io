@@ -9,13 +9,9 @@ aside: true
 ---
 
 <!-- ### Button include -->
-
-{% include button.html text="twitter" link="https://twitter.com/4wheelslab" icon="twitter" %}
 <!-- 
-``` html
-{% raw %}{% include button.html text="A button" link="https://david.darn.es" %}
-{% include button.html text="A button with icon" link="https://twitter.com/daviddarnes" icon="twitter" %}{% endraw %}
-``` -->
+{% include button.html text="twitter" link="https://twitter.com/4wheelslab" icon="twitter" %} -->
+
 
 
 ## About me
@@ -33,30 +29,12 @@ aside: true
 5. Item five
 
 <!-- ## HTML Includes -->
-
+<!-- 
 ### Contact form
 
-{% include site-form.html %}
+{% include site-form.html %} -->
 
-<!-- ### Icon include
-
-{% include icon.html id="twitter" title="twitter" %} [{% include icon.html id="linkedin" title="twitter" %}](https://www.linkedin.com/in/daviddarnes)
-
-``` html
-{% raw %}{% include icon.html id="twitter" title="twitter" %}
-[{% include icon.html id="linkedin" title="twitter" %}](https://www.linkedin.com/in/daviddarnes){% endraw %}
-```
-
-### Video include
-
-{% include video.html id="zrkcGL5H3MU" title="Siteleaf tutorial video" %}
-
-``` html
-{% raw %}{% include video.html id="zrkcGL5H3MU" title="Siteleaf tutorial video" %}{% endraw %}
-```
-
-
-### Image includes
+<!-- ### Image includes
 
 {% include figure.html image="https://picsum.photos/600/800?image=894" caption="Image with caption" width="300" height="800" %}
 
@@ -74,4 +52,4 @@ aside: true
 {% include figure.html image="https://picsum.photos/600/800?image=894" caption="Left aligned image" position="left" width="300" height="800" %}
 
 {% include figure.html image="https://picsum.photos/1600/800?image=894" alt="Image with just alt text" %}{% endraw %}
-``` -->
+``` --> 
